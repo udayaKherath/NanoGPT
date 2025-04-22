@@ -45,7 +45,7 @@ The architecture follows the standard decoder-only transformer design:
 ## Output
 
 ### Training and Validation Loss
-![Training and Validation Loss](./Capture1.png)
+![Training and Validation Loss](./Capture1.PNG)
 
 ### Sample Output
-![Sample Output Text](./Capture2.png)
+![Sample Output Text](./Capture2.PNG)
