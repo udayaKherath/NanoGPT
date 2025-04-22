@@ -43,4 +43,9 @@ The architecture follows the standard decoder-only transformer design:
 - CUDA-compatible GPU (recommended but not required)
 
 ## Output
-![Figure 1](https://raw.githubusercontent.com/udayaKherath/House-Price-Prediction/master/img1.png)
+
+### Training and Validation Loss
+![Training and Validation Loss](./Capture1.png)
+
+### Sample Output
+![Sample Output Text](./Capture2.png)
