@@ -1,4 +1,4 @@
-# MiniGPT: A Decoder-Only Transformer from Scratch
+# NanoGPT: A Decoder-Only Transformer from Scratch
 
 This repository contains an implementation of a decoder-only transformer model built from scratch using PyTorch, inspired by the architecture of GPT models. The model is designed for character-level language modeling and text generation.
 
@@ -42,9 +42,5 @@ The architecture follows the standard decoder-only transformer design:
 - PyTorch 1.0+
 - CUDA-compatible GPU (recommended but not required)
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/minigpt.git
-cd minigpt
-pip install -r requirements.txt
+## Output
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/House-Price-Prediction/master/img1.png)
